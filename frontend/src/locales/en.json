@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "newSearch": "New Search",
+    "settings": "Settings",
+    "admin": "Administration",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "loginBtn": "Sign In",
+    "invalidCredentials": "Invalid email or password"
+  },
+  "search": {
+    "title": "Search Venues",
+    "radius": "Radius (km)",
+    "types": "Venue Types",
+    "byName": "Search by name",
+    "start": "Start Search",
+    "history": "Search History",
+    "params": "Search Parameters",
+    "found": "Found",
+    "qualified": "Qualified",
+    "date": "Date",
+    "delete": "Delete Search",
+    "view": "View"
+  },
+  "leads": {
+    "title": "Found Venues",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "painPoints": "Pain Points",
+    "status": "Status",
+    "generateKP": "Generate Proposal",
+    "generateStrategy": "Negotiation Strategy",
+    "details": "Details",
+    "lastReview": "Last Negative Review",
+    "phone": "Phone",
+    "website": "Website",
+    "address": "Address"
+  },
+  "proposal": {
+    "title": "Commercial Proposal",
+    "download": "Download PDF",
+    "language": "Proposal Language",
+    "generate": "Generate",
+    "recommendations": "Recommendations",
+    "generatedAt": "Generated at"
+  },
+  "settings": {
+    "title": "Settings",
+    "uiLang": "Interface Language",
+    "kpLang": "Proposal Language",
+    "defaultRadius": "Default Radius",
+    "defaultTypes": "Default Venue Types",
+    "save": "Save",
+    "username": "Username",
+    "saved": "Settings saved"
+  },
+  "admin": {
+    "users": "Users",
+    "createUser": "Create User",
+    "role": "Role",
+    "active": "Active",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "globalSettings": "Global Settings",
+    "email": "Email",
+    "password": "Password",
+    "key": "Key",
+    "value": "Value",
+    "description": "Description",
+    "newUser": "New User",
+    "saved": "Saved"
+  },
+  "status": {
+    "New": "New",
+    "Contacted": "Contacted",
+    "Qualified": "Qualified",
+    "Rejected": "Rejected",
+    "pending": "Pending",
+    "in_progress": "In Progress",
+    "completed": "Completed",
+    "failed": "Failed",
+    "draft": "Draft",
+    "generated": "Generated",
+    "sent": "Sent",
+    "accepted": "Accepted",
+    "rejected": "Rejected"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "confirm": "Are you sure?",
+    "yes": "Yes",
+    "no": "No",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create"
+  }
+}

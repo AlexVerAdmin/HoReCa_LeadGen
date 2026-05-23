@@ -1,0 +1,107 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "newSearch": "Neue Suche",
+    "settings": "Einstellungen",
+    "admin": "Administration",
+    "logout": "Abmelden"
+  },
+  "auth": {
+    "login": "Anmelden",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "loginBtn": "Einloggen",
+    "invalidCredentials": "Ungültige E-Mail oder Passwort"
+  },
+  "search": {
+    "title": "Lokale suchen",
+    "radius": "Radius (km)",
+    "types": "Lokaltypen",
+    "byName": "Nach Name suchen",
+    "start": "Suche starten",
+    "history": "Suchverlauf",
+    "params": "Suchparameter",
+    "found": "Gefunden",
+    "qualified": "Qualifiziert",
+    "date": "Datum",
+    "delete": "Suche löschen",
+    "view": "Anzeigen"
+  },
+  "leads": {
+    "title": "Gefundene Lokale",
+    "rating": "Bewertung",
+    "reviews": "Bewertungen",
+    "painPoints": "Schwachstellen",
+    "status": "Status",
+    "generateKP": "Angebot erstellen",
+    "generateStrategy": "Verhandlungsstrategie",
+    "details": "Details",
+    "lastReview": "Letzte negative Bewertung",
+    "phone": "Telefon",
+    "website": "Website",
+    "address": "Adresse"
+  },
+  "proposal": {
+    "title": "Handelsangebot",
+    "download": "PDF herunterladen",
+    "language": "Angebotssprache",
+    "generate": "Erstellen",
+    "recommendations": "Empfehlungen",
+    "generatedAt": "Erstellt am"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "uiLang": "Oberflächensprache",
+    "kpLang": "Angebotssprache",
+    "defaultRadius": "Standardradius",
+    "defaultTypes": "Standard-Lokaltypen",
+    "save": "Speichern",
+    "username": "Benutzername",
+    "saved": "Einstellungen gespeichert"
+  },
+  "admin": {
+    "users": "Benutzer",
+    "createUser": "Benutzer erstellen",
+    "role": "Rolle",
+    "active": "Aktiv",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "confirm": "Bestätigen",
+    "cancel": "Abbrechen",
+    "globalSettings": "Globale Einstellungen",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "key": "Schlüssel",
+    "value": "Wert",
+    "description": "Beschreibung",
+    "newUser": "Neuer Benutzer",
+    "saved": "Gespeichert"
+  },
+  "status": {
+    "New": "Neu",
+    "Contacted": "Kontaktiert",
+    "Qualified": "Qualifiziert",
+    "Rejected": "Abgelehnt",
+    "pending": "Ausstehend",
+    "in_progress": "In Bearbeitung",
+    "completed": "Abgeschlossen",
+    "failed": "Fehlgeschlagen",
+    "draft": "Entwurf",
+    "generated": "Erstellt",
+    "sent": "Gesendet",
+    "accepted": "Akzeptiert",
+    "rejected": "Abgelehnt"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "confirm": "Sind Sie sicher?",
+    "yes": "Ja",
+    "no": "Nein",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen"
+  }
+}
