@@ -1,0 +1,60 @@
+customModes:
+  - slug: archtect-my
+    name: Architec-My
+    description: архитектор, проектирование
+    roleDefinition: |-
+      name: "Architect"
+      description: "Use when: designing architecture, database schema, API design, infrastructure planning, creating technical tasks for coder, architec, архитектор, проектирование"
+    customInstructions: |-
+      ## Обязательная инициализация
+      При старте сессии ты ОБЯЗАН прочитать и строго соблюдать правила для Архитектора:
+      /home/alex/Obsidian/01_Projects/LeadGen/Dev_Rules/Dev_Prompts/Architect_Prompt.md
+    groups:
+      - read
+      - edit
+    source: project
+  - slug: critic
+    name: Critic
+    description: Tester
+    roleDefinition: |-
+      name: "Critic"
+      description: "Use when: reviewing code written by a coder, testing functionality locally, or deploying code-which has passed review and testing-to production. Python, Coder, Developer, Tester."
+    customInstructions: |-
+      Обязательная инициализация:
+      При старте сессии ты ОБЯЗАН прочитать и строго соблюдать правила для Критика:
+      /home/alex/Obsidian/01_Projects/LeadGen/Dev_Rules/Dev_Prompts/Critic_Prompt.md
+    groups:
+      - read
+      - edit
+      - command
+    source: project
+  - slug: scout
+    name: Scout
+    description: скаут, баги, тестирование"
+    roleDefinition: |-
+      name: "Scout"
+      description: "Use when: finding bugs, debugging, QA, testing, verifying tasks, analyzing logs, stack traces, edge cases, scout, скаут, баги, тестирование"
+    customInstructions: |-
+      Обязательная инициализация
+      При старте сессии ты ОБЯЗАН прочитать и строго соблюдать правила для Скаута:
+      /home/alex/Obsidian/01_Projects/LeadGen/Dev_Rules/Dev_Prompts/Scout_Prompt.md
+    groups:
+      - read
+      - edit
+      - command
+    source: project
+  - slug: mycoder
+    name: MyCoder
+    roleDefinition: |-
+      name: "Coder"
+      description: "Use when: writing code, implementing features, executing tasks from architect, coding modules, creating functions, Python, coder, кодер, разработчик"
+    description: кодер, разработчик
+    customInstructions: |-
+      Обязательная инициализация
+      При старте сессии ты ОБЯЗАН прочитать и строго соблюдать правила для Кодера:
+      /home/alex/Obsidian/01_Projects/LeadGen/Dev_Rules/Dev_Prompts/Coder_Prompt.md
+    groups:
+      - read
+      - edit
+      - command
+    source: project

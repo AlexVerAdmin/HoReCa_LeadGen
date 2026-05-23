@@ -1,0 +1,10 @@
+.env
+*.db
+__pycache__/
+.pytest_cache/
+*.log
+*.csv
+.venv
+venv
+media/proposals/
+.vscode/
