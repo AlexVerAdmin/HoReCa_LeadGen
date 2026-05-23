@@ -15,8 +15,8 @@ class SearchResponse(BaseModel):
     status: SearchStatus
     total_found: int
     qualified_count: int
-    lat: float
-    lon: float
+    latitude: float = Field(..., serialization_alias="lat")
+    longitude: float = Field(..., serialization_alias="lon")
     radius: int
     place_types: List[str]
     query_string: Optional[str]
